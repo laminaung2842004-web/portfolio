@@ -6,7 +6,6 @@ export default function Skills() {
       <div className="container">
         <header className="section__head">
           <p className="section__kicker">02 — Skills</p>
-          <h2 className="section__title">Tools I reach for every day</h2>
         </header>
 
         <div className="skills">
